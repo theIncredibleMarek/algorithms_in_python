@@ -3,3 +3,4 @@
 
 ### Includes:
 * Bubble sort
+* Selection sort
