@@ -4,4 +4,4 @@
 ### Includes:
 * Bubble sort
 * Selection sort
-* Selection sort
+* Insertion sort
