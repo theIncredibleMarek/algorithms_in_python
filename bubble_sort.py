@@ -22,6 +22,7 @@ def sort(input, ascending=True):
                 second = input[i]
 
             if(first > second):
+                # swap the values
                 unsorted = True
                 if(ascending):
                     input[i + 1] = first
